@@ -1,4 +1,4 @@
-#  XAI - Intelligence Artificielle Explicable
+#  XAI - Intelligence Artificielle Explicable - par CHOUATI LINDA, utilisé par dadflip pour recherches
 
 Ce dépôt contient les ressources d'un projet de recherche sur l'**Intelligence Artificielle Explicable (XAI)**.
 
